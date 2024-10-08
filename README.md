@@ -2,6 +2,8 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=naveen-malla)](https://git.io/streak-stats)
 
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=naveen-malla)
+
 <!--
 **naveen-malla/naveen-malla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
