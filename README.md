@@ -1,20 +1,13 @@
-### Hi there 👋
+<div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=naveen-malla)](https://git.io/streak-stats)
+# Hi, I'm Naveen Malla 👋
+
+Data Scientist at Kasha.co • PhD Researcher at Trier University • AI for Healthcare
+
+</div>
+
+## About me
+- Building prediction models to reduce loss to follow‑up (LTFU) in HIV patient care at Kasha.co.
+- Pursuing a PhD at Trier University on the synergy between Large Language Models (LLMs) and Case‑Based Reasoning (CBR).
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=naveen-malla)
-
-<!--
-**naveen-malla/naveen-malla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
